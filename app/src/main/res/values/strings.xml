@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Gesture Video</string>
+    <string name="videoUrl1">"https://assets.mixkit.co/videos/preview/mixkit-waves-in-the-water-1164-large.mp4"</string>
+    <string name="videoUrl2">"https://assets.mixkit.co/videos/preview/mixkit-pink-and-blue-ink-1192-large.mp4"</string>
+    <string name="videoURl3">"https://assets.mixkit.co/videos/preview/mixkit-the-spheres-of-a-christmas-tree-2720-large.mp4"</string>
+    <string name="videoUrl4">"https://assets.mixkit.co/videos/preview/mixkit-excited-girl-with-a-stuffed-santa-claus-39747-large.mp4"</string>
+    <string name="videoUrl5">"https://assets.mixkit.co/videos/preview/mixkit-hands-holding-a-smart-watch-with-the-stopwatch-running-32808-large.mp4"</string>
+    <string name="videoUrl6">"https://assets.mixkit.co/videos/preview/mixkit-young-photographer-setting-up-his-camera-outdoors-34408-large.mp4"</string>
+    <string name="videoEndMessage">No more videos to show</string>
+    <string name="textViewName">Name</string>
+    <string name="name">Soumya Pandey</string>
+    <string name="textViewUsername">Username</string>
+    <string name="username">_soumya_pandey_</string>
+    <string name="textViewBio">Bio</string>
+    <string name="bioText">Add Bio</string>
+    <string name="mobNoTextView">Mobile No.</string>
+    <string name="mobNo">9079060836</string>
+    <string name="profile">Profile</string>
+    <string name="website">abc.123@gmail.com</string>
+    <string name="account">Account</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="about_us">About Us</string>
+    <string name="info">Info</string>
+    <string name="save">Save</string>
+</resources>
